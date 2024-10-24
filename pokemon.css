@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.kelasatas{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 16px;
+	padding : 10px;
+}
+
+.awal{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.whole {
+	display: flex;
+	flex-direction: row;
+	padding:20px 20px 20px 20px;
+	text-align : justify;
+	
+}
+
+.context{
+	padding: 0px 20px 20px 20px;
+}
+
+.topnav input[type=text]{
+	float : right;
+	padding: 8px;
+	font-size: 15px
+	height: 100%;
+	width: 100%;
+}
+
+li{
+	list-style-type: none;
+}
+
+.kotakplus{
+	display: flex;
+	flex-direction: row;
+	padding: 10px 10px 10px 0px;
+}
+
+.kotakplus2{
+	padding: 10px 10px 10px 10px;
+}
